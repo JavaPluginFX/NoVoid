@@ -1,6 +1,6 @@
 <?php
 
-namespace Void\NoVoid;
+namespace Void;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
